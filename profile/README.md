@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/galyarderlabs/galyarderlabs/main/headline.webp"
+<img src="https://raw.githubusercontent.com/galyarderlabs/.github/main/headline.webp"
 width="800" alt="Galyarder Labs">
 </p>
 
@@ -56,7 +56,7 @@ entity that maintains your preferences and history across sessions.
 The repositories hosted within this organization represent production-grade infrastructure. Security is
 default. Execution is low-latency. Failures are logged and sanitized.
 
-[Website: galyarderlabs.app](https://galyarderlabs.app) | [Contact:contact@galyarderlabs.app](mailto:contact@galyarderlabs.app)
+[Website: galyarderlabs.app](https://galyarderlabs.app) | [Contact: contact@galyarderlabs.app](mailto:contact@galyarderlabs.app)
 
 ---
 © 2026 Galyarder Labs.
