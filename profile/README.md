@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/galyarderlabs/galyarderlabs/main/public/headline.webp"
+<img src="https://raw.githubusercontent.com/galyarderlabs/galyarderlabs/main/headline.webp"
 width="800" alt="Galyarder Labs">
 </p>
 
