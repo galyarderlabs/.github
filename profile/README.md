@@ -1,5 +1,3 @@
-Galyarder Labs
-
 **Empowering Human Intent.**
 
 Galyarder Labs builds autonomous execution infrastructure for operators carrying work too important to disappear.
