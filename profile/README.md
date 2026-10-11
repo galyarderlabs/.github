@@ -3,13 +3,6 @@
        width="880" alt="Galyarder Labs">
 </p>
 
-# Galyarder Labs
-
-**Research · Systems · Software · Real Work**
-
-Galyarder Labs is a small research studio. We build software that turns what
-someone means into work that actually gets done.
-
 ## What we work on
 
 The studio works on one problem: what happens between someone saying what they
